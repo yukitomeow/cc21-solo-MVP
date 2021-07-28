@@ -16,14 +16,6 @@
     </div>
 
     <br />
-
-    <div class="content">
-      <div class="inner">
-        <button>{{ text3 }}</button>
-        <router-link to="/showingPhotos">{{ text4 }}</router-link>
-      </div>
-    </div>
-    <router-view />
   </div>
 </template>
 

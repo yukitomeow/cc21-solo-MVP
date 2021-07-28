@@ -6,8 +6,7 @@ import ShowingPhotos from '../components/ShowingPhotos'
 Vue.use(vueRouter)
 
 export default new vueRouter({
-
-
+    mode: 'history',
     routes: [
         // {
         //     path: "/",

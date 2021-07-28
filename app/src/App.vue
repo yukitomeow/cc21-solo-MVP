@@ -27,6 +27,12 @@ export default {
     UploadingItems,
     Upload,
   },
+  data() {
+    return {
+      text3: "Put Item in Your Closet",
+      text4: "View My Closet",
+    };
+  },
 };
 </script>
 
